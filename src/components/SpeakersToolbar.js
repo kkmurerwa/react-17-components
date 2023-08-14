@@ -9,10 +9,10 @@ function SpeakersToolbar() {
     setShowSessions,
     eventYear,
     setEventYear,
-    searchQuery,
     setSearchQuery,
     EVENT_YEARS,
   } = useContext(SpeakerFilterContext);
+
   return (
     <section className="toolbar dark-theme-header">
       <div className="container">
@@ -73,7 +73,7 @@ function SpeakersToolbar() {
                     setEventYear(currentTarget.value);
                   }}
                 >
-                  {EVENT_YEARS.map((year) => {
+                  {EVENT_YEARS.map(function (year) {
                     return (
                       <option value={year} key={year}>
                         {year}

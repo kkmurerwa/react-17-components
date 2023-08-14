@@ -9,7 +9,7 @@ function Layout({ startingTheme, children }) {
   );
 }
 
-function LayoutNoThemeProvider({ startingTheme, children }) {
+function LayoutNoThemeProvider({ children }) {
   const { theme } = useContext(ThemeContext);
 
   return (
