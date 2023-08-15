@@ -5,7 +5,7 @@
       "first": "Arun",
       "last": "Gupta",
       "company": "Amazon",
-      "bio": "Arun Gupta is a Principal Open Source Technologist at Amazon Web Services. ",
+      "xbio": "Arun Gupta is a Principal Open Source Technologist at Amazon Web Services. ",
       "twitterHandle": "arungupta",
       "favorite": true,
       "sessions": [
@@ -261,7 +261,7 @@
       "company": "Eventuate, Inc",
       "bio": "Founder of Eventuate, Author of POJOs in Action, creator of the original Cloud Foundry",
       "twitterHandle": "crichardson",
-      "favorite": false,
+      "favorite": true,
       "sessions": [
         {
           "id": "1011",
@@ -744,7 +744,7 @@
       "company": "Kelley Blue Book",
       "bio": "An award winning developer and author.",
       "twitterHandle": "therockncoder",
-      "favorite": false,
+      "favorite": true,
       "sessions": [
         {
           "id": "1252",
@@ -829,7 +829,7 @@
       "company": "Early Stage Innovation",
       "bio": "Claudia is a leading expert on product internationalization",
       "twitterHandle": "cgalvan",
-      "favorite": false,
+      "favorite": true,
       "sessions": [
         {
           "id": "4820",
@@ -1024,7 +1024,7 @@
       "company": "De Anza College",
       "bio": "Ron teaches Object Oriented Analysis and Design at De Anza College ",
       "twitterHandle": "notweets",
-      "favorite": false,
+      "favorite": true,
       "sessions": [
         {
           "id": "86",
